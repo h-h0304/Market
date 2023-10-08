@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Market</string>
+    <string name="manner_txt"><u>매너온도</u></string>
+    <string name="dongname">OO동</string>
+    <string name="chat">채팅하기</string>
+    <string name="description_detail_like">Like button</string>
+    <string name="notification_icon_description">bell</string>
+</resources>
